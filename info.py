@@ -44,7 +44,7 @@ course_data = {
 
 experience_data = {
     "Instagram Reels Backend Feedback Provider": (["- Spend 15 hrs a day customizing recomended reels across various dimensions- duration, genre, language preference",
-                                                                          "- Refined The Recommender System for Instagram Reels"],"images/ins.jpg"),
+                                                                          "- Refined The Recommender System for Instagram Reels"],"images/Ins.jpg"),
     "Gym-Goer ":(["- Provide regular quality checks on various equipment (except for the ones for leg workouts)",
                                                            "- Always clean up after myself"],"images/Gym.jpg"),
     "College Student":(["- Just a normal guy who goes to a college, nothing really special about him, at least during daytimes... "],"images/College_student.jpg")
