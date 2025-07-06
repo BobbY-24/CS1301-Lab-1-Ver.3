@@ -1,0 +1,14 @@
+
+streamlit
+requests
+Pandas
+
+
+Matplotlib
+Time
+
+Color RGB = "#rrggbb"
+"#000000" = black (no red, no green, no blue)
+"#111111" = white ( max red, max green, max, blue)
+
+
